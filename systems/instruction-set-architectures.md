@@ -1,4 +1,7 @@
-# Instruction Set Architectures
+---
+title: "Instruction Set Architectures"
+published: "2026-09-30T19:22:00Z"
+---
 
 Instruction Set Architectures (ISAs) like x86-64 are what determine the actual byte sequences a compiler outputs for the specified ISA.
 
